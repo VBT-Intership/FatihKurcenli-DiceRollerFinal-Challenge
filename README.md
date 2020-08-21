@@ -16,7 +16,8 @@ You need to know:
 # Let's Play 
 
 
-![twoDiegif](https://user-images.githubusercontent.com/34714108/90887067-535a3900-e3bc-11ea-8929-2d0fdc2237fb.gif)
+![rolldie](https://user-images.githubusercontent.com/34714108/90887726-8e10a100-e3bd-11ea-8b74-cdfd7a5f538d.gif)
+
 
 
 
